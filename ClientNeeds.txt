@@ -1,0 +1,30 @@
+Your client Komodo Insurance has a number of software development teams and needs you to write a Console App to help their Product Managers manage them all.
+
+You will need to create at least four different classes:
+- Two POCOS: 
+-Developer
+    Developers have Name Typeof(string)
+    ID numbers (int)
+    We also need to know whether or not the have access to the online learning tool: Pluralsight (true or false) Typeof(bool)
+
+DevTeam
+    Team ID Typeof(int)
+    Team members (Developers) List<T> -> List<Developer>
+    Team Name Typeof(string)
+
+Two Repositories: DeveloperRepo, DevTeamRepo //Collections -> and we can perform actions on those collections
+    And Repos need CRUD methods as appropriate
+
+User Interface (Console Application)
+
+
+
+Clients will typically not give you all the info you need, so you may need to use your brain and peers to fill in the blanks!
+
+Our managers need to be able to add and remove members to/from a team by their unique identifier. 
+They should be able to see a list of existing developers to choose from and add to existing teams. 
+Odds are, the manager will create a team, and then add Developers individually from the Developer Directory to that team.
+
+Challenge: Our HR Department uses the software monthly to get a list of all our Developers that need a Pluralsight license. Create this functionality in the Console Application
+
+Challenge: Some of our managers are nitpicky and would like the functionality to add multiple Developers to a team at once, rather than one by one. Integrate this into your application.

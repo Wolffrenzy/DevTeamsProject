@@ -1,0 +1,15 @@
+D:\workspace\EFAFoundations\DevTeams\DevTeams.Repository\bin\Debug\net7.0\DevTeams.Repository.deps.json
+D:\workspace\EFAFoundations\DevTeams\DevTeams.Repository\bin\Debug\net7.0\DevTeams.Repository.dll
+D:\workspace\EFAFoundations\DevTeams\DevTeams.Repository\bin\Debug\net7.0\DevTeams.Repository.pdb
+D:\workspace\EFAFoundations\DevTeams\DevTeams.Repository\bin\Debug\net7.0\DevTeams.Data.dll
+D:\workspace\EFAFoundations\DevTeams\DevTeams.Repository\bin\Debug\net7.0\DevTeams.Data.pdb
+D:\workspace\EFAFoundations\DevTeams\DevTeams.Repository\obj\Debug\net7.0\DevTeams.Repository.csproj.AssemblyReference.cache
+D:\workspace\EFAFoundations\DevTeams\DevTeams.Repository\obj\Debug\net7.0\DevTeams.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\EFAFoundations\DevTeams\DevTeams.Repository\obj\Debug\net7.0\DevTeams.Repository.AssemblyInfoInputs.cache
+D:\workspace\EFAFoundations\DevTeams\DevTeams.Repository\obj\Debug\net7.0\DevTeams.Repository.AssemblyInfo.cs
+D:\workspace\EFAFoundations\DevTeams\DevTeams.Repository\obj\Debug\net7.0\DevTeams.Repository.csproj.CoreCompileInputs.cache
+D:\workspace\EFAFoundations\DevTeams\DevTeams.Repository\obj\Debug\net7.0\DevTeams.Repository.csproj.CopyComplete
+D:\workspace\EFAFoundations\DevTeams\DevTeams.Repository\obj\Debug\net7.0\DevTeams.Repository.dll
+D:\workspace\EFAFoundations\DevTeams\DevTeams.Repository\obj\Debug\net7.0\refint\DevTeams.Repository.dll
+D:\workspace\EFAFoundations\DevTeams\DevTeams.Repository\obj\Debug\net7.0\DevTeams.Repository.pdb
+D:\workspace\EFAFoundations\DevTeams\DevTeams.Repository\obj\Debug\net7.0\ref\DevTeams.Repository.dll
